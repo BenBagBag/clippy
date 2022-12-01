@@ -4,19 +4,19 @@
 
 In the terminal, run:
 
-`
+```
 $ npm install
 $ live-server
-`
+```
 Navigate to http://127.0.0.1:8080/ in your browser.
 
 ## Viewing online
 
-TODO: add url
+You can see the code live at https://benbagbag.github.io/clippy/.
 
 ## To-dos
 
-I ran out of time before I got everything done. Here's some stuff I would have added if I'd had more time:
+I wanted to keep the time commitment reasonable. Here's some stuff I would have added if I'd had more time:
 
 - Do more research on the trade-offs/conventions of setting HTML vs. using `document.createElement`, improve the code accordingly.
 - Improve the visuals: this is a very bare-bones layout where my main requirement was that none of the elements overlap. I also nabbed a fun color scheme (https://colorhunt.co/palette/10a19d540375ff7000ffbf00) but it's not the most readable and it should definitely be fleshed out beyond four colors for a more complicated UI.
